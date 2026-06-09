@@ -1,4 +1,4 @@
-# ToC
+# Home Assistant Gauge Timer Card
 1. [install](#install)
 2. [timer yaml](#timer-yaml)
 3. [script](#script)
