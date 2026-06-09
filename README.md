@@ -4,6 +4,9 @@
 3. [script](#script)
 4. [images](#images)
 
+# disclaimer
+100% vibe coded with Opus/Copilot
+
 # install
 
 1. copy js file to `/config/www/`
